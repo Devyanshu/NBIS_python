@@ -29,7 +29,8 @@ and C is the column. For more detail see [here](https://github.com/Devyanshu/ima
 
 ##### Sample Image
 ![Sample Image](/images/102_1.jpg)
-Image : FVC 2002 DB1 Part B, 102_1.tif
+###### Image : FVC 2002 DB1 Part B, 102_1.tif
+##### Partial fingerprints with 50% overlap
 |  ![Splitted Image](/images/102_1-1x1.jpeg) | ![Splitted Image](/images/102_1-1x2.jpeg)  | ![Splitted Image](/images/102_1-1x3.jpeg)  |  ![Splitted Image](/images/102_1-1x4.jpeg) |  
 |:-:|:-:|:-:|:-:|
 |  ![Splitted Image](/images/102_1-2x1.jpeg) | ![Splitted Image](/images/102_1-2x2.jpeg)  | ![Splitted Image](/images/102_1-2x3.jpeg)  |  ![Splitted Image](/images/102_1-2x4.jpeg) |   
