@@ -1,6 +1,6 @@
 ## NBIS using Python
 
-### Python scripts to carry out some tasks using NBIS.
+### Python scripts to carry out some tasks using NBIS on FVC databases.
 
 #### minutiae_dtct.py
 
