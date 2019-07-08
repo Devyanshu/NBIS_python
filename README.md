@@ -27,3 +27,11 @@ and C is the column. For more detail see [here](https://github.com/Devyanshu/ima
 ##### Usage
 `python generate_partial_fp.py -p <path to full image files> -s <location to save>`
 
+##### Sample Image
+![Sample Image](/images/102_1.jpg)
+Image : FVC 2002 DB1 Part B, 102_1.tif
+|  ![Splitted Image](/images/102_1-1x1.jpeg) | ![Splitted Image](/images/102_1-1x2.jpeg)  | ![Splitted Image](/images/102_1-1x3.jpeg)  |  ![Splitted Image](/images/102_1-1x4.jpeg) |  
+|:-:|:-:|:-:|:-:|
+|  ![Splitted Image](/images/102_1-2x1.jpeg) | ![Splitted Image](/images/102_1-2x2.jpeg)  | ![Splitted Image](/images/102_1-2x3.jpeg)  |  ![Splitted Image](/images/102_1-2x4.jpeg) |   
+|  ![Splitted Image](/images/102_1-3x1.jpeg) | ![Splitted Image](/images/102_1-3x2.jpeg)  | ![Splitted Image](/images/102_1-3x3.jpeg)  |  ![Splitted Image](/images/102_1-3x4.jpeg) |   
+|  ![Splitted Image](/images/102_1-4x1.jpeg) | ![Splitted Image](/images/102_1-4x2.jpeg)  | ![Splitted Image](/images/102_1-4x3.jpeg)  |  ![Splitted Image](/images/102_1-4x4.jpeg) |   
